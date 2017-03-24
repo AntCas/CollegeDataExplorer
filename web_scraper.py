@@ -2,8 +2,6 @@ import requests
 import pprint
 import json
 from bs4 import BeautifulSoup
-import re
-import csv
 
 pp = pprint.PrettyPrinter(indent=2, depth=8)
 
@@ -31,21 +29,30 @@ print next_url
 # The json for page one can't be grabbed by itself so it has to be extracted
 # from the webpage before it can be processed. The json data is processed by
 # extracting the university rankings data from the rest of the json data.
-soup = BeautifulSoup(r.text)
-page_one_json = json.loads(soup.find_all('script', {"data-for": "search-application"})[0].text)
-university_info_json = page_one_json['model']['results']['data']['items']
+soup = BeautifulSoup(r.text, "html5lib")
+json_string = soup.find('script', {"data-for": "search-application"}).text
+page_one_data = json.loads(json_string)
+university_info = page_one_data['model']['results']['data']['items']
 
 # The rest of the json data can be dowloaded directly as json. This data shows
 # up on usnews.com in an "infinite scroll" style. Here we're continually
 # requesting the next page of info manually until we hit a 404 (page not found).
 page_num = 2
-while r.status_code == "200":
+while True:
     next_url = "%s?_page=%d&format=json" % (root_url, page_num)
     r = requests.get(next_url, headers=headers)
-    university_info_json += json.loads(r.text)['data']['results']['data']['items']
     print next_url
+
+    if r.status_code != 200:
+        print "Got a %d status code" % r.status_code
+        break
+
+    university_info += json.loads(r.text)['data']['results']['data']['items']
     page_num += 1
 
+
+print "# pages scraped = %d" % (page_num - 1)
+
 # Save the json data
-with open('USNewsNationalUniversities.json', 'w') as output_file:
-    json.dump(university_info_json, output_file)
+with open('college_data.json', 'w') as output_file:
+    json.dump(university_info, output_file)
