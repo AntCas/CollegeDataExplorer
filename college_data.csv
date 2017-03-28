@@ -1,310 +1,232 @@
-Princeton University,#1,7
-Harvard University,#2,6
-University of Chicago,#3,8
-Yale University,#3,7
-Columbia University,#5,6
-Stanford University,#5,5
-Massachusetts Institute of Technology,#7,8
-Duke University,#8,12
-University of Pennsylvania,#8,10
-Johns Hopkins University,#10,13
-Dartmouth College,#11,11
-California Institute of Technology,#12,9
-Northwestern University,#12,13
-Brown University,#14,9
-Cornell University,#15,15
-Rice University,#15,16
-University of Notre Dame,#15,20
-Vanderbilt University,#15,12
-Washington University in St. Louis,#19,17
-Emory University,#20,24
-Georgetown University,#20,17
-University of California--Berkeley,#20,15
-University of Southern California,#23,18
-Carnegie Mellon University,#24,24
-University of California--Los Angeles,#24,17
-University of Virginia,#24,30
-Tufts University,#27,16
-University of Michigan--Ann Arbor,#27,26
-Wake Forest University,#27,29
-University of North Carolina--Chapel Hill,#30,30
-Boston College,#31,29
-College of William & Mary,#32,34
-University of Rochester,#32,34
-Brandeis University,#34,34
-Georgia Institute of Technology,#34,32
-New York University,#36,33
-Case Western Reserve University,#37,36
-University of California--Santa Barbara,#37,33
-Boston University,#39,33
-Northeastern University,#39,28
-Rensselaer Polytechnic Institute,#39,42
-Tulane University,#39,31
-University of California--Irvine,#39,39
-Lehigh University,#44,30
-University of California--Davis,#44,38
-University of California--San Diego,#44,34
-University of Illinois--Urbana-Champaign,#44,66
-University of Miami,#44,38
-University of Wisconsin--Madison,#44,49
-Pennsylvania State University--University Park,#50,51
-Pepperdine University,#50,38
-University of Florida,#50,48
-Villanova University,#50,48
-Ohio State University--Columbus,#54,49
-University of Washington,#54,53
-George Washington University,#56,46
-Southern Methodist University,#56,49
-University of Georgia,#56,53
-University of Texas--Austin,#56,39
-Fordham University,#60,48
-Purdue University--West Lafayette,#60,59
-Syracuse University,#60,48
-University of Connecticut,#60,53
-University of Maryland--College Park,#60,45
-Worcester Polytechnic Institute,#60,49
-Clemson University,#66,51
-Yeshiva University,#66,80
-Brigham Young University--Provo,#68,48
-University of Pittsburgh,#68,54
-Rutgers University--New Brunswick,#70,58
-Baylor University,#71,44
-Stevens Institute of Technology,#71,44
-University of Minnesota--Twin Cities,#71,45
-American University,#74,35
-Clark University,#74,55
-Texas A&M University--College Station,#74,66
-University of Massachusetts--Amherst,#74,58
-Virginia Tech,#74,73
-Miami University--Oxford,#79,65
-University of California--Santa Cruz,#79,51
-University of Delaware,#79,63
-Colorado School of Mines,#82,38
-Michigan State University,#82,66
-Texas Christian University,#82,43
-University of Iowa,#82,81
-Binghamton University--SUNY,#86,42
-Indiana University--Bloomington,#86,78
-Marquette University,#86,74
-University of Denver,#86,73
-University of San Diego,#86,52
-University of Tulsa,#86,42
-Florida State University,#92,56
-North Carolina State University--Raleigh,#92,50
-University of Colorado--Boulder,#92,80
-University of Vermont,#92,71
-Drexel University,#96,75
-Saint Louis University,#96,63
-Stony Brook University--SUNY,#96,41
-Auburn University,#99,78
-Loyola University Chicago,#99,71
-SUNY College of Environmental Science and Forestry,#99,52
-University at Buffalo--SUNY,#99,60
-Illinois Institute of Technology,#103,53
-University of Alabama,#103,54
-University of Oregon,#103,74
-University of Tennessee,#103,76
-Rochester Institute of Technology,#107,57
-University of New Hampshire,#107,79
-University of San Francisco,#107,65
-University of South Carolina,#107,65
-Iowa State University,#111,87
-University of Dayton,#111,58
-University of Missouri,#111,78
-University of Nebraska--Lincoln,#111,76
-University of Oklahoma,#111,78
-University of the Pacific,#111,65
-University of Utah,#111,81
-Michigan Technological University,#118,75
-Seton Hall University,#118,76
-Temple University,#118,56
-University of California--Riverside,#118,56
-University of Kansas,#118,93
-University of St. Thomas,#118,84
-The Catholic University of America,#124,79
-DePaul University,#124,72
-Duquesne University,#124,76
-Howard University,#124,49
-University of Arizona,#124,76
-Arizona State University--Tempe,#129,83
-Clarkson University,#129,68
-Colorado State University,#129,81
-New School,#129,67
-Hofstra University,#133,61
-University of Kentucky,#133,91
-Kansas State University,#135,95
-Louisiana State University--Baton Rouge,#135,77
-Mercer University,#135,67
-New Jersey Institute of Technology,#135,61
-Rutgers University--Newark,#135,65
-University of Arkansas,#135,60
-University of Cincinnati,#135,76
-University of Mississippi,#135,79
-George Mason University,#143,80
-Oregon State University,#143,78
-Washington State University,#143,80
-Adelphi University,#146,72
-Ohio University,#146,74
-San Diego State University,#146,34
-St. John Fisher College,#146,62
-University at Albany--SUNY,#146,56
-University of Texas--Dallas,#146,61
-Illinois State University,#152,80
-Immaculata University,#152,79
-Oklahoma State University,#152,75
-University of California--Merced,#152,61
-University of Illinois--Chicago,#152,77
-University of La Verne,#152,47
-University of Massachusetts--Lowell,#152,57
-Seattle Pacific University,#159,82
-University of Alabama--Birmingham,#159,87
-University of Maryland--Baltimore County,#159,59
-University of Rhode Island,#159,71
-University of South Florida,#159,45
-Biola University,#164,73
-Maryville University of St. Louis,#164,72
-Missouri University of Science & Technology,#164,88
-St. John's University,#164,65
-Virginia Commonwealth University,#164,72
-Union University,#169,69
-University of Hawaii--Manoa,#169,81
-Edgewood College,#171,77
-Florida Institute of Technology,#171,57
-University of Idaho,#171,72
-University of Louisville,#171,72
-University of Wyoming,#171,96
-Ball State University,#176,61
-Lipscomb University,#176,61
-Mississippi State University,#176,72
-Montclair State University,#176,70
-Texas Tech University,#176,63
-University of Central Florida,#176,49
-University of New Mexico,#176,50
-Andrews University,#183,39
-Azusa Pacific University,#183,81
-University of Maine,#183,91
-West Virginia University,#183,86
-Widener University,#183,68
-Kent State University,#188,85
-North Dakota State University,#188,94
-Pace University,#188,84
-Robert Morris University,#188,78
-Suffolk University,#188,82
-University of Hartford,#188,64
-Bowling Green State University,#194,76
-University of Houston,#194,60
-Western Michigan University,#194,82
-Indiana University-Purdue University--Indianapolis,#197,70
-Lesley University,#197,69
-University of Alabama--Huntsville,#197,81
-University of Colorado--Denver,#197,67
-University of Nevada--Reno,#197,86
-California State University--Fullerton,#202,42
-Central Michigan University,#202,69
-Louisiana Tech University,#202,64
-South Dakota State University,#202,92
-University of Alaska--Fairbanks,#202,73
-University of North Carolina--Charlotte,#202,63
-University of North Dakota,#202,82
-University of South Dakota,#202,74
-East Carolina University,#210,69
-Montana State University,#210,83
-Old Dominion University,#210,83
-University of Missouri--Kansas City,#210,63
-Ashland University,#214,74
-Dallas Baptist University,#214,42
-Northern Illinois University,#214,50
-Nova Southeastern University,#214,59
-Southern Illinois University--Carbondale,#214,81
-University of Montana,#214,92
-Benedictine University,#220,79
-California State University--Fresno,#220,52
-Gardner-Webb University,#220,79
-New Mexico State University,#220,65
-Shenandoah University,#220,82
-Tennessee Technological University,#220,68
-University of Massachusetts--Boston,#220,69
-University of Massachusetts--Dartmouth,#220,76
-University of Missouri--St. Louis,#220,76
-University of North Carolina--Greensboro,#220,59
-University of Southern Mississippi,#220,58
-Utah State University,#220,97
-American International College,RNP,64
-Augusta University,RNP,74
-Barry University,RNP,55
-Boise State University,RNP,80
-Cardinal Stritch University,RNP,77
-Clark Atlanta University,RNP,52
-Cleveland State University,RNP,91
-Eastern Michigan University,RNP,75
-East Tennessee State University,RNP,79
-Florida A&M University,RNP,51
-Florida Atlantic University,RNP,68
-Florida International University,RNP,50
-Georgia Southern University,RNP,60
-Georgia State University,RNP,58
-Grand Canyon University,RNP,58
-Indiana State University,RNP,85
-Indiana University of Pennsylvania,RNP,88
-Jackson State University,RNP,68
-Kennesaw State University,RNP,59
-Lamar University,RNP,79
-Liberty University,RNP,21
-Lindenwood University,RNP,55
-Middle Tennessee State University,RNP,73
-Morgan State University,RNP,67
-National Louis University,RNP,81
-North Carolina A&T State University,RNP,59
-Northern Arizona University,RNP,77
-Oakland University,RNP,80
-Portland State University,RNP,86
-Prairie View A&M University,RNP,86
-Regent University,RNP,86
-Sam Houston State University,RNP,73
-San Francisco State University,RNP,68
-Spalding University,RNP,46
-Tennessee State University,RNP,53
-Texas A&M University--Commerce,RNP,47
-Texas A&M University--Corpus Christi,RNP,84
-Texas A&M University--Kingsville,RNP,82
-Texas Southern University,RNP,51
-Texas State University,RNP,71
-Texas Woman's University,RNP,75
-Trevecca Nazarene University,RNP,73
-Trinity International University,RNP,96
-University of Akron,RNP,97
-University of Arkansas--Little Rock,RNP,68
-University of Louisiana--Lafayette,RNP,55
-University of Louisiana--Monroe,RNP,94
-University of Maryland--Eastern Shore,RNP,49
-University of Memphis,RNP,92
-University of Nebraska--Omaha,RNP,76
-University of Nevada--Las Vegas,RNP,88
-University of New Orleans,RNP,58
-University of Northern Colorado,RNP,89
-University of North Texas,RNP,70
-University of South Alabama,RNP,78
-University of Texas--Arlington,RNP,64
-University of Texas--El Paso,RNP,100
-University of Texas--San Antonio,RNP,78
-University of the Cumberlands,RNP,68
-University of Toledo,RNP,93
-University of West Florida,RNP,42
-University of West Georgia,RNP,57
-University of Wisconsin--Milwaukee,RNP,73
-Valdosta State University,RNP,50
-Wayne State University,RNP,80
-Wichita State University,RNP,95
-Wright State University,RNP,96
-Alliant International University,Unranked,
-Argosy University,Unranked,
-California Institute of Integral Studies,Unranked,
-Capella University,Unranked,
-Idaho State University,Unranked,
-Northcentral University,Unranked,
-Trident University International,Unranked,
-Union Institute and University,Unranked,
-University of Phoenix,Unranked,
-University of Texas--Rio Grande Valley,Unranked,
-Walden University,Unranked,
-Wilmington University,Unranked,100
+Name,Rank,Acceptance
+Princeton University,1,7
+Harvard University,2,6
+University of Chicago,3,8
+Yale University,3,7
+Columbia University,5,6
+Stanford University,5,5
+Massachusetts Institute of Technology,7,8
+Duke University,8,12
+University of Pennsylvania,8,10
+Johns Hopkins University,10,13
+Dartmouth College,11,11
+California Institute of Technology,12,9
+Northwestern University,12,13
+Brown University,14,9
+Cornell University,15,15
+Rice University,15,16
+University of Notre Dame,15,20
+Vanderbilt University,15,12
+Washington University in St. Louis,19,17
+Emory University,20,24
+Georgetown University,20,17
+University of California--Berkeley,20,15
+University of Southern California,23,18
+Carnegie Mellon University,24,24
+University of California--Los Angeles,24,17
+University of Virginia,24,30
+Tufts University,27,16
+University of Michigan--Ann Arbor,27,26
+Wake Forest University,27,29
+University of North Carolina--Chapel Hill,30,30
+Boston College,31,29
+College of William & Mary,32,34
+University of Rochester,32,34
+Brandeis University,34,34
+Georgia Institute of Technology,34,32
+New York University,36,33
+Case Western Reserve University,37,36
+University of California--Santa Barbara,37,33
+Boston University,39,33
+Northeastern University,39,28
+Rensselaer Polytechnic Institute,39,42
+Tulane University,39,31
+University of California--Irvine,39,39
+Lehigh University,44,30
+University of California--Davis,44,38
+University of California--San Diego,44,34
+University of Illinois--Urbana-Champaign,44,66
+University of Miami,44,38
+University of Wisconsin--Madison,44,49
+Pennsylvania State University--University Park,50,51
+Pepperdine University,50,38
+University of Florida,50,48
+Villanova University,50,48
+Ohio State University--Columbus,54,49
+University of Washington,54,53
+George Washington University,56,46
+Southern Methodist University,56,49
+University of Georgia,56,53
+University of Texas--Austin,56,39
+Fordham University,60,48
+Purdue University--West Lafayette,60,59
+Syracuse University,60,48
+University of Connecticut,60,53
+University of Maryland--College Park,60,45
+Worcester Polytechnic Institute,60,49
+Clemson University,66,51
+Yeshiva University,66,80
+Brigham Young University--Provo,68,48
+University of Pittsburgh,68,54
+Rutgers University--New Brunswick,70,58
+Baylor University,71,44
+Stevens Institute of Technology,71,44
+University of Minnesota--Twin Cities,71,45
+American University,74,35
+Clark University,74,55
+Texas A&M University--College Station,74,66
+University of Massachusetts--Amherst,74,58
+Virginia Tech,74,73
+Miami University--Oxford,79,65
+University of California--Santa Cruz,79,51
+University of Delaware,79,63
+Colorado School of Mines,82,38
+Michigan State University,82,66
+Texas Christian University,82,43
+University of Iowa,82,81
+Binghamton University--SUNY,86,42
+Indiana University--Bloomington,86,78
+Marquette University,86,74
+University of Denver,86,73
+University of San Diego,86,52
+University of Tulsa,86,42
+Florida State University,92,56
+North Carolina State University--Raleigh,92,50
+University of Colorado--Boulder,92,80
+University of Vermont,92,71
+Drexel University,96,75
+Saint Louis University,96,63
+Stony Brook University--SUNY,96,41
+Auburn University,99,78
+Loyola University Chicago,99,71
+SUNY College of Environmental Science and Forestry,99,52
+University at Buffalo--SUNY,99,60
+Illinois Institute of Technology,103,53
+University of Alabama,103,54
+University of Oregon,103,74
+University of Tennessee,103,76
+Rochester Institute of Technology,107,57
+University of New Hampshire,107,79
+University of San Francisco,107,65
+University of South Carolina,107,65
+Iowa State University,111,87
+University of Dayton,111,58
+University of Missouri,111,78
+University of Nebraska--Lincoln,111,76
+University of Oklahoma,111,78
+University of the Pacific,111,65
+University of Utah,111,81
+Michigan Technological University,118,75
+Seton Hall University,118,76
+Temple University,118,56
+University of California--Riverside,118,56
+University of Kansas,118,93
+University of St. Thomas,118,84
+The Catholic University of America,124,79
+DePaul University,124,72
+Duquesne University,124,76
+Howard University,124,49
+University of Arizona,124,76
+Arizona State University--Tempe,129,83
+Clarkson University,129,68
+Colorado State University,129,81
+New School,129,67
+Hofstra University,133,61
+University of Kentucky,133,91
+Kansas State University,135,95
+Louisiana State University--Baton Rouge,135,77
+Mercer University,135,67
+New Jersey Institute of Technology,135,61
+Rutgers University--Newark,135,65
+University of Arkansas,135,60
+University of Cincinnati,135,76
+University of Mississippi,135,79
+George Mason University,143,80
+Oregon State University,143,78
+Washington State University,143,80
+Adelphi University,146,72
+Ohio University,146,74
+San Diego State University,146,34
+St. John Fisher College,146,62
+University at Albany--SUNY,146,56
+University of Texas--Dallas,146,61
+Illinois State University,152,80
+Immaculata University,152,79
+Oklahoma State University,152,75
+University of California--Merced,152,61
+University of Illinois--Chicago,152,77
+University of La Verne,152,47
+University of Massachusetts--Lowell,152,57
+Seattle Pacific University,159,82
+University of Alabama--Birmingham,159,87
+University of Maryland--Baltimore County,159,59
+University of Rhode Island,159,71
+University of South Florida,159,45
+Biola University,164,73
+Maryville University of St. Louis,164,72
+Missouri University of Science & Technology,164,88
+St. John's University,164,65
+Virginia Commonwealth University,164,72
+Union University,169,69
+University of Hawaii--Manoa,169,81
+Edgewood College,171,77
+Florida Institute of Technology,171,57
+University of Idaho,171,72
+University of Louisville,171,72
+University of Wyoming,171,96
+Ball State University,176,61
+Lipscomb University,176,61
+Mississippi State University,176,72
+Montclair State University,176,70
+Texas Tech University,176,63
+University of Central Florida,176,49
+University of New Mexico,176,50
+Andrews University,183,39
+Azusa Pacific University,183,81
+University of Maine,183,91
+West Virginia University,183,86
+Widener University,183,68
+Kent State University,188,85
+North Dakota State University,188,94
+Pace University,188,84
+Robert Morris University,188,78
+Suffolk University,188,82
+University of Hartford,188,64
+Bowling Green State University,194,76
+University of Houston,194,60
+Western Michigan University,194,82
+Indiana University-Purdue University--Indianapolis,197,70
+Lesley University,197,69
+University of Alabama--Huntsville,197,81
+University of Colorado--Denver,197,67
+University of Nevada--Reno,197,86
+California State University--Fullerton,202,42
+Central Michigan University,202,69
+Louisiana Tech University,202,64
+South Dakota State University,202,92
+University of Alaska--Fairbanks,202,73
+University of North Carolina--Charlotte,202,63
+University of North Dakota,202,82
+University of South Dakota,202,74
+East Carolina University,210,69
+Montana State University,210,83
+Old Dominion University,210,83
+University of Missouri--Kansas City,210,63
+Ashland University,214,74
+Dallas Baptist University,214,42
+Northern Illinois University,214,50
+Nova Southeastern University,214,59
+Southern Illinois University--Carbondale,214,81
+University of Montana,214,92
+Benedictine University,220,79
+California State University--Fresno,220,52
+Gardner-Webb University,220,79
+New Mexico State University,220,65
+Shenandoah University,220,82
+Tennessee Technological University,220,68
+University of Massachusetts--Boston,220,69
+University of Massachusetts--Dartmouth,220,76
+University of Missouri--St. Louis,220,76
+University of North Carolina--Greensboro,220,59
+University of Southern Mississippi,220,58
+Utah State University,220,97
